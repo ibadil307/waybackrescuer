@@ -13,7 +13,9 @@ WaybackRescuer ini adalah sebuah skrip Python yang didesain untuk melakukan scan
 - Menyediakan Ringkasan Hasil
 
   Menghasilkan file summary yang merangkum status setiap URL yang diperiksa serta informasi tentang proses pengunduhan. Hasil ini akan tersimpan secara local.
+- Save otomatis
 
+  Menyimpan otomatis hasil pencarian apabila terjadi putus jaringan atau ingin stop.
 Skrip ini mengimplementasikan mekanisme retry untuk memastikan kestabilan koneksi, sehingga lebih tahan terhadap gangguan jaringan atau error sementara dari server.
 
 #  Cara Menjalankan Script 
